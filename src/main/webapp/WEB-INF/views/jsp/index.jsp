@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To satya instituites ,Prakash nagar , Begumpet.</h2>
+			<h2>Welcome To satya instituites ,Prakash nagar , Begumpet,Hyderabad.</h2>
 			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Satya institute and management 2019</p>
 	</footer>
 </div>
 
